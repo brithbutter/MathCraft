@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MathCraft</string>
+    <string name="Q0"></string>
+    <string name="Q1">Here should be some question</string>
+    <string name="A1_0"></string>
+    <string name="A1_1">Here should be some question</string>
+    <string name="A1_2">Here should be some question</string>
+    <string name="A1_3">Here should be some question</string>
+    <string name="A1_4">Here should be some question</string>
+    <string name="Q2">Here should be some questionoptional</string>
+
+</resources>
