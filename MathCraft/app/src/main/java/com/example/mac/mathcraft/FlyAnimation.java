@@ -10,14 +10,14 @@ public class FlyAnimation {
     int duration;
     int endPosition;
 
-    public FlyAnimation(ImageView image, int imageNumber, int imageIndex){
+    public FlyAnimation(ImageView image, int imageNumber){
         currentImage=image;
-        endPosition=1100/imageNumber*imageIndex;
+        endPosition=imageNumber*300;
     }
     void startFly(){
-        TranslateAnimation animation = new TranslateAnimation(0, endPosition, 0, 500);
+        TranslateAnimation animation = new TranslateAnimation(0, 0, 0, 300);
         animation.setDuration(1000);
-        animation.setFillAfter(false);
+        animation.setFillAfter(true);
         currentImage.startAnimation(animation);
     }
 
