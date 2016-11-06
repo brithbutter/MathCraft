@@ -1,0 +1,7 @@
+#Sat Nov 05 14:23:29 CST 2016
+base.0=C\:\\AndroidStudioProjects\\MathCraft\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_619bbde488f8044d0f89051edef112fb77f8d801
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\AndroidStudioProjects\\MathCraft\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2b8798e687f46dc36ee316f8c1a494763e24b910\\classes.dex
+base.1=C\:\\AndroidStudioProjects\\MathCraft\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2b8798e687f46dc36ee316f8c1a494763e24b910
+file.0=C\:\\AndroidStudioProjects\\MathCraft\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_619bbde488f8044d0f89051edef112fb77f8d801\\classes.dex
